@@ -1,0 +1,7 @@
+assets/*
+!assets/icon.png
+.gitignore
+.vscode-test/**
+.vscode/**
+dist/*
+src/*

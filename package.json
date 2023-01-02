@@ -1,0 +1,421 @@
+{
+  "author": {
+    "name": "Ophuscado",
+    "url": "https://github.com/Ophuscado"
+  },
+  "bugs": {
+    "url": "https://github.com/Ophuscado/vscode-ohled-themes/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "config": {
+    "themes": {
+      "OhLED Aqua": {
+        "bg": "#000000",
+        "fg": "#00FFFF",
+        "type": "dark"
+      },
+      "OhLED Aquamarine": {
+        "bg": "#000000",
+        "fg": "#7FFFD4",
+        "type": "dark"
+      },
+      "OhLED Azure": {
+        "bg": "#000000",
+        "fg": "#F0FFFF",
+        "type": "dark"
+      },
+      "OhLED Beige": {
+        "bg": "#000000",
+        "fg": "#F5F5DC",
+        "type": "dark"
+      },
+      "OhLED Bisque": {
+        "bg": "#000000",
+        "fg": "#FFE4C4",
+        "type": "dark"
+      },
+      "OhLED BlanchedAlmond": {
+        "bg": "#000000",
+        "fg": "#FFEBCD",
+        "type": "dark"
+      },
+      "OhLED Blue": {
+        "bg": "#000000",
+        "fg": "#0000FF",
+        "type": "dark"
+      },
+      "OhLED BlueViolet": {
+        "bg": "#000000",
+        "fg": "#8A2BE2",
+        "type": "dark"
+      },
+      "OhLED Brown": {
+        "bg": "#000000",
+        "fg": "#A52A2A",
+        "type": "dark"
+      },
+      "OhLED BurlyWood": {
+        "bg": "#000000",
+        "fg": "#DEB887",
+        "type": "dark"
+      },
+      "OhLED CadetBlue": {
+        "bg": "#000000",
+        "fg": "#5F9EA0",
+        "type": "dark"
+      },
+      "OhLED Chartreuse": {
+        "bg": "#000000",
+        "fg": "#7FFF00",
+        "type": "dark"
+      },
+      "OhLED Chocolate": {
+        "bg": "#000000",
+        "fg": "#D2691E",
+        "type": "dark"
+      },
+      "OhLED Coral": {
+        "bg": "#000000",
+        "fg": "#FF7F50",
+        "type": "dark"
+      },
+      "OhLED CornflowerBlue": {
+        "bg": "#000000",
+        "fg": "#6495ED",
+        "type": "dark"
+      },
+      "OhLED Cornsilk": {
+        "bg": "#000000",
+        "fg": "#FFF8DC",
+        "type": "dark"
+      },
+      "OhLED Crimson": {
+        "bg": "#000000",
+        "fg": "#DC143C",
+        "type": "dark"
+      },
+      "OhLED Cyan": {
+        "bg": "#000000",
+        "fg": "#00FFFF",
+        "type": "dark"
+      },
+      "OhLED DarkBlue": {
+        "bg": "#000000",
+        "fg": "#00008B",
+        "type": "dark"
+      },
+      "OhLED DarkCyan": {
+        "bg": "#000000",
+        "fg": "#008B8B",
+        "type": "dark"
+      },
+      "OhLED DarkGoldenRod": {
+        "bg": "#000000",
+        "fg": "#B8860B",
+        "type": "dark"
+      },
+      "OhLED DarkGray": {
+        "bg": "#000000",
+        "fg": "#A9A9A9",
+        "type": "dark"
+      },
+      "OhLED DarkGreen": {
+        "bg": "#000000",
+        "fg": "#006400",
+        "type": "dark"
+      },
+      "OhLED DarkKhaki": {
+        "bg": "#000000",
+        "fg": "#BDB76B",
+        "type": "dark"
+      },
+      "OhLED DarkMagenta": {
+        "bg": "#000000",
+        "fg": "#8B008B",
+        "type": "dark"
+      },
+      "OhLED DarkOliveGreen": {
+        "bg": "#000000",
+        "fg": "#556B2F",
+        "type": "dark"
+      },
+      "OhLED DarkOrange": {
+        "bg": "#000000",
+        "fg": "#FF8C00",
+        "type": "dark"
+      },
+      "OhLED DarkOrchid": {
+        "bg": "#000000",
+        "fg": "#9932CC",
+        "type": "dark"
+      },
+      "OhLED DarkRed": {
+        "bg": "#000000",
+        "fg": "#8B0000",
+        "type": "dark"
+      },
+      "OhLED DarkSalmon": {
+        "bg": "#000000",
+        "fg": "#E9967A",
+        "type": "dark"
+      },
+      "OhLED DarkSeaGreen": {
+        "bg": "#000000",
+        "fg": "#8FBC8F",
+        "type": "dark"
+      },
+      "OhLED DarkSlateBlue": {
+        "bg": "#000000",
+        "fg": "#483D8B",
+        "type": "dark"
+      },
+      "OhLED DarkSlateGray": {
+        "bg": "#000000",
+        "fg": "#2F4F4F",
+        "type": "dark"
+      },
+      "OhLED DarkTurquoise": {
+        "bg": "#000000",
+        "fg": "#00CED1",
+        "type": "dark"
+      },
+      "OhLED DarkViolet": {
+        "bg": "#000000",
+        "fg": "#9400D3",
+        "type": "dark"
+      },
+      "OhLED DeepPink": {
+        "bg": "#000000",
+        "fg": "#FF1493",
+        "type": "dark"
+      },
+      "OhLED DeepSkyBlue": {
+        "bg": "#000000",
+        "fg": "#00BFFF",
+        "type": "dark"
+      },
+      "OhLED DimGray": {
+        "bg": "#000000",
+        "fg": "#696969",
+        "type": "dark"
+      },
+      "OhLED DodgerBlue": {
+        "bg": "#000000",
+        "fg": "#1E90FF",
+        "type": "dark"
+      },
+      "OhLED Gold": {
+        "bg": "#000000",
+        "fg": "#FFD700",
+        "type": "dark"
+      },
+      "OhLED Green": {
+        "bg": "#000000",
+        "fg": "#00FF00",
+        "type": "dark"
+      },
+      "OhLED IndianRed": {
+        "bg": "#000000",
+        "fg": "#CD5C5C",
+        "type": "dark"
+      },
+      "OhLED LightSkyBlue": {
+        "bg": "#000000",
+        "fg": "#87CEFA",
+        "type": "dark"
+      },
+      "OhLED LightSlateGray": {
+        "bg": "#000000",
+        "fg": "#778899",
+        "type": "dark"
+      },
+      "OhLED Magenta": {
+        "bg": "#000000",
+        "fg": "#FF00FF",
+        "type": "dark"
+      },
+      "OhLED Olive": {
+        "bg": "#000000",
+        "fg": "#808000",
+        "type": "dark"
+      },
+      "OhLED Orange": {
+        "bg": "#000000",
+        "fg": "#FFA500",
+        "type": "dark"
+      },
+      "OhLED PaleVioletRed": {
+        "bg": "#000000",
+        "fg": "#DB7093",
+        "type": "dark"
+      },
+      "OhLED Pink": {
+        "bg": "#000000",
+        "fg": "#FFC0CB",
+        "type": "dark"
+      },
+      "OhLED Plum": {
+        "bg": "#000000",
+        "fg": "#DDA0DD",
+        "type": "dark"
+      },
+      "OhLED Purple": {
+        "bg": "#000000",
+        "fg": "#800080",
+        "type": "dark"
+      },
+      "OhLED Red": {
+        "bg": "#000000",
+        "fg": "#FF0000",
+        "type": "dark"
+      },
+      "OhLED SpringGreen": {
+        "bg": "#000000",
+        "fg": "#00FF7F",
+        "type": "dark"
+      },
+      "OhLED Teal": {
+        "bg": "#000000",
+        "fg": "#008080",
+        "type": "dark"
+      },
+      "OhLED Turquoise": {
+        "bg": "#000000",
+        "fg": "#40E0D0",
+        "type": "dark"
+      },
+      "OhLED Violet": {
+        "bg": "#000000",
+        "fg": "#EE82EE",
+        "type": "dark"
+      },
+      "OhLED Yellow": {
+        "bg": "#000000",
+        "fg": "#FFFF00",
+        "type": "dark"
+      }
+    }
+  },
+  "contributes": {
+    "themes": []
+  },
+  "description": "The OhLED Themes (142-in-1) for VSCode are inspired by the classic CRT monitors of yesteryear, specially crafted for the modern OLED displays of today. It includes an optional timer to enable an automatic colour cycle in order to further avoid screen burning.",
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  },
+  "displayName": "OhLED Themes (142-in-1)",
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "galleryBanner": {
+    "color": "#0f0",
+    "theme": "dark"
+  },
+  "icon": "media/icon.png",
+  "keywords": [
+    "alien",
+    "aliens",
+    "alternate-universe",
+    "architecture",
+    "area51",
+    "art",
+    "artist",
+    "artwork",
+    "astronaut",
+    "astronomy",
+    "black",
+    "classic",
+    "color-theme",
+    "color",
+    "colors",
+    "colour",
+    "colours",
+    "conspiracy",
+    "crt",
+    "cyberpunk",
+    "cybersecurity",
+    "dark",
+    "design",
+    "digitalart",
+    "drawing",
+    "engineer",
+    "extraterrestrial",
+    "eye-fatigue",
+    "eye-strain",
+    "eyes",
+    "fantasy",
+    "futuristic",
+    "hacker-theme",
+    "hacker-themes",
+    "hacker",
+    "hacking",
+    "history",
+    "illustration",
+    "minimal",
+    "monochrome",
+    "night-mode",
+    "night",
+    "nighttime",
+    "old",
+    "oled",
+    "painting",
+    "rainbow",
+    "retro",
+    "retrowave",
+    "sciencefiction",
+    "scifi",
+    "screenburn",
+    "screenburning",
+    "security",
+    "space",
+    "spaceship",
+    "star",
+    "stars",
+    "starship",
+    "starships",
+    "surrealism",
+    "synthwave",
+    "tech",
+    "terminal-color",
+    "terminal-colors",
+    "terminal-theme",
+    "terminal-themes",
+    "terminal",
+    "theme-bundle",
+    "theme-collection",
+    "theme-cycle",
+    "theme-pack",
+    "theme-rotate",
+    "theme",
+    "themes",
+    "travel",
+    "ufo",
+    "ui-theme",
+    "ui-themes",
+    "ui",
+    "vaporwave",
+    "vintage",
+    "vintage",
+    "vscode-theme",
+    "vscode-themes",
+    "vscode",
+    "xterm",
+    "xtermjs"
+  ],
+  "license": "BSD-3-Clause",
+  "name": "ohled-themes",
+  "publisher": "Ophuscado",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ophuscado/vscode-ohled-themes.git"
+  },
+  "scripts": {
+    "build": "node src/build.js",
+    "package": "vsce package -o ./dist/ohled-themes-$(node -p \"require('./package.json').version\").vsix",
+    "vscode:prepublish": "npm run build"
+  },
+  "type": "module",
+  "version": "0.1.0"
+}
