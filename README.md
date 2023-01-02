@@ -153,7 +153,7 @@ The OhLED Themes (142-in-1) for VSCode are inspired by the classic CRT monitors 
 
 ### Preview
 
-![Preview](https://raw.githubusercontent.com/Ophuscado/vscode-ohled-themes/master/assets/preview.png)
+![Preview](https://raw.githubusercontent.com/Ophuscado/vscode-ohled-themes/main/blob/assets/preview.png)
 
 ## Attributions
 
