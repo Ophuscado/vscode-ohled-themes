@@ -1,5 +1,5 @@
 assets/*
-!assets/icon.png
+!assets/logo.png
 .gitignore
 .vscode-test/**
 .vscode/**

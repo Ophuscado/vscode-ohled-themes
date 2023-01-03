@@ -1437,7 +1437,7 @@
       }
     ],
     "configuration": {
-      "title": "Random Theme Switcher configuration list",
+      "title": "OhLED Themes (142-in-1)",
       "properties": {
         "ohled.switchInterval": {
           "default": 3,
@@ -1454,13 +1454,13 @@
   },
   "displayName": "OhLED Themes (142-in-1)",
   "engines": {
-    "vscode": "^1.42.0"
+    "vscode": "1"
   },
   "galleryBanner": {
-    "color": "#0f0",
+    "color": "#002",
     "theme": "dark"
   },
-  "icon": "../assets/logo.png",
+  "icon": "assets/logo.png",
   "keywords": [
     "alien",
     "aliens",
