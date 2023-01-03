@@ -1435,7 +1435,17 @@
         "path": "themes/OhLED_YellowPurple.json",
         "uiTheme": "vs-dark"
       }
-    ]
+    ],
+    "configuration": {
+      "title": "Random Theme Switcher configuration list",
+      "properties": {
+        "ohled.switchInterval": {
+          "default": 3,
+          "description": "Interval in minutes for switching theme automatically. Set to 0 to disable.",
+          "type": "integer",
+          "maximum": 60
+        }
+      }
   },
   "description": "The OhLED Themes (142-in-1) for VSCode are inspired by the classic CRT monitors of yesteryear, specially crafted for the modern OLED displays of today.",
   "devDependencies": {
@@ -1449,7 +1459,8 @@
     "color": "#0f0",
     "theme": "dark"
   },
-  "icon": "media/icon.png",
+  "icon": "assets/logo01.png",
+
   "keywords": [
     "alien",
     "aliens",
@@ -1540,9 +1551,9 @@
     "xterm",
     "xtermjs"
   ],
-  "license": "BSD-3-Clause",
+  "license": "BSD-2-Clause",
   "name": "ohled-themes",
-  "publisher": "Ophuscado",
+  "publisher": "ophuscado",
   "repository": {
     "type": "git",
     "url": "https://github.com/Ophuscado/vscode-ohled-themes.git"
@@ -1550,8 +1561,7 @@
   "scripts": {
     "build": "node src/build.js",
     "clean": "rm -rf dist/* themes/*",
-    "package": "vsce package -o ./dist/ohled-themes-$(node -p \"require('./package.json').version\").vsix",
-    "vscode:prepublish": "npm run build"
+    "package": "vsce package -o ./dist/ohled-themes-$(node -p \"require('./package.json').version\").vsix"
   },
   "type": "module",
   "version": "0.1.0"
