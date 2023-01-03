@@ -1446,6 +1446,7 @@
           "maximum": 60
         }
       }
+    }
   },
   "description": "The OhLED Themes (142-in-1) for VSCode are inspired by the classic CRT monitors of yesteryear, specially crafted for the modern OLED displays of today.",
   "devDependencies": {
@@ -1459,8 +1460,7 @@
     "color": "#0f0",
     "theme": "dark"
   },
-  "icon": "assets/logo01.png",
-
+  "icon": "../assets/logo.png",
   "keywords": [
     "alien",
     "aliens",

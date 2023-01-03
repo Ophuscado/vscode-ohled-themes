@@ -1,6 +1,6 @@
 # OhLED Themes (142-in-1) for VSCode
 
-![OhLED Themes](https://github.com/Ophuscado/vscode-ohled-themes/blob/main/assets/logo.png)
+![OhLED Themes](https://github.com/Ophuscado/vscode-ohled-themes/raw/main/assets/logo.png)
 
 ## About
 
@@ -155,32 +155,30 @@ The OhLED Themes (142-in-1) for VSCode are inspired by the classic CRT monitors 
 
 ### Previews
 
-![Preview](https://github.com/Ophuscado/vscode-ohled-themes/blob/main/assets/preview00.png)
+![Preview](https://github.com/Ophuscado/vscode-ohled-themes/raw/main/assets/preview00.png)
 
-![Preview](https://github.com/Ophuscado/vscode-ohled-themes/blob/main/assets/preview01.png)
+![Preview](https://github.com/Ophuscado/vscode-ohled-themes/raw/main/assets/preview01.png)
 
 <details>
 <summary>Load more...</summary>
 
+![Preview](https://github.com/Ophuscado/vscode-ohled-themes/raw/main/assets/preview02.png)
 
-![Preview](https://github.com/Ophuscado/vscode-ohled-themes/blob/main/assets/preview02.png)
+![Preview](https://github.com/Ophuscado/vscode-ohled-themes/raw/main/assets/preview03.png)
 
-![Preview](https://github.com/Ophuscado/vscode-ohled-themes/blob/main/assets/preview03.png)
+![Preview](https://github.com/Ophuscado/vscode-ohled-themes/raw/main/assets/preview04.png)
 
-![Preview](https://github.com/Ophuscado/vscode-ohled-themes/blob/main/assets/preview04.png)
+![Preview](https://github.com/Ophuscado/vscode-ohled-themes/raw/main/assets/preview05.png)
 
-![Preview](https://github.com/Ophuscado/vscode-ohled-themes/blob/main/assets/preview05.png)
+![Preview](https://github.com/Ophuscado/vscode-ohled-themes/raw/main/assets/preview06.png)
 
-![Preview](https://github.com/Ophuscado/vscode-ohled-themes/blob/main/assets/preview06.png)
+![Preview](https://github.com/Ophuscado/vscode-ohled-themes/raw/main/assets/preview07.png)
 
-![Preview](https://github.com/Ophuscado/vscode-ohled-themes/blob/main/assets/preview07.png)
+![Preview](https://github.com/Ophuscado/vscode-ohled-themes/raw/main/assets/preview08.png)
 
-![Preview](https://github.com/Ophuscado/vscode-ohled-themes/blob/main/assets/preview08.png)
-
-![Preview](https://github.com/Ophuscado/vscode-ohled-themes/blob/main/assets/preview09.png)
+![Preview](https://github.com/Ophuscado/vscode-ohled-themes/raw/main/assets/preview09.png)
 
 </details>
-
 
 ## Attributions
 
