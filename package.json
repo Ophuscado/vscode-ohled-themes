@@ -1454,7 +1454,7 @@
   },
   "displayName": "OhLED Themes (142-in-1)",
   "engines": {
-    "vscode": "1"
+    "vscode": "1.60.0"
   },
   "galleryBanner": {
     "color": "#002",
@@ -1564,5 +1564,5 @@
     "package": "vsce package -o ./dist/ohled-themes-$(node -p \"require('./package.json').version\").vsix"
   },
   "type": "module",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
