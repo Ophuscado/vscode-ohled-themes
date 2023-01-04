@@ -53,17 +53,17 @@
       },
       "OhLED_Blue": {
         "bg": "#000000",
-        "fg": "#0000FF",
+        "fg": "#5e5eff",
         "type": "dark"
       },
       "OhLED_BlueViolet": {
         "bg": "#000000",
-        "fg": "#8A2BE2",
+        "fg": "#964de8",
         "type": "dark"
       },
       "OhLED_Brown": {
         "bg": "#000000",
-        "fg": "#A52A2A",
+        "fg": "#b45959",
         "type": "dark"
       },
       "OhLED_BurlyWood": {
@@ -103,7 +103,7 @@
       },
       "OhLED_Crimson": {
         "bg": "#000000",
-        "fg": "#DC143C",
+        "fg": "#de2946",
         "type": "dark"
       },
       "OhLED_Cyan": {
@@ -113,7 +113,7 @@
       },
       "OhLED_DarkBlue": {
         "bg": "#000000",
-        "fg": "#00008B",
+        "fg": "#6e6ead",
         "type": "dark"
       },
       "OhLED_DarkCyan": {
@@ -133,7 +133,7 @@
       },
       "OhLED_DarkGreen": {
         "bg": "#000000",
-        "fg": "#006400",
+        "fg": "#527f52",
         "type": "dark"
       },
       "OhLED_DarkKhaki": {
@@ -143,12 +143,12 @@
       },
       "OhLED_DarkMagenta": {
         "bg": "#000000",
-        "fg": "#8B008B",
+        "fg": "#a25aa2",
         "type": "dark"
       },
       "OhLED_DarkOliveGreen": {
         "bg": "#000000",
-        "fg": "#556B2F",
+        "fg": "#697b4f",
         "type": "dark"
       },
       "OhLED_DarkOrange": {
@@ -158,12 +158,12 @@
       },
       "OhLED_DarkOrchid": {
         "bg": "#000000",
-        "fg": "#9932CC",
+        "fg": "#a24dd2",
         "type": "dark"
       },
       "OhLED_DarkRed": {
         "bg": "#000000",
-        "fg": "#8B0000",
+        "fg": "#a66262",
         "type": "dark"
       },
       "OhLED_DarkSalmon": {
@@ -178,12 +178,12 @@
       },
       "OhLED_DarkSlateBlue": {
         "bg": "#000000",
-        "fg": "#483D8B",
+        "fg": "#746ea3",
         "type": "dark"
       },
       "OhLED_DarkSlateGray": {
         "bg": "#000000",
-        "fg": "#2F4F4F",
+        "fg": "#677878",
         "type": "dark"
       },
       "OhLED_DarkTurquoise": {
@@ -193,7 +193,7 @@
       },
       "OhLED_DarkViolet": {
         "bg": "#000000",
-        "fg": "#9400D3",
+        "fg": "#a249dc",
         "type": "dark"
       },
       "OhLED_DeepPink": {
@@ -208,7 +208,7 @@
       },
       "OhLED_DimGray": {
         "bg": "#000000",
-        "fg": "#696969",
+        "fg": "#747474",
         "type": "dark"
       },
       "OhLED_DodgerBlue": {
@@ -218,7 +218,7 @@
       },
       "OhLED_FireBrick": {
         "bg": "#000000",
-        "fg": "#B22222",
+        "fg": "#be5252",
         "type": "dark"
       },
       "OhLED_ForestGreen": {
@@ -258,7 +258,7 @@
       },
       "OhLED_Green": {
         "bg": "#000000",
-        "fg": "#008000",
+        "fg": "#288628",
         "type": "dark"
       },
       "OhLED_GreenYellow": {
@@ -283,7 +283,7 @@
       },
       "OhLED_Indigo": {
         "bg": "#000000",
-        "fg": "#4B0082",
+        "fg": "#806aa3",
         "type": "dark"
       },
       "OhLED_Ivory": {
@@ -403,7 +403,7 @@
       },
       "OhLED_Maroon": {
         "bg": "#000000",
-        "fg": "#800000",
+        "fg": "#9f6565",
         "type": "dark"
       },
       "OhLED_MediumAquaMarine": {
@@ -413,7 +413,7 @@
       },
       "OhLED_MediumBlue": {
         "bg": "#000000",
-        "fg": "#0000CD",
+        "fg": "#6666e0",
         "type": "dark"
       },
       "OhLED_MediumOrchid": {
@@ -448,12 +448,12 @@
       },
       "OhLED_MediumVioletRed": {
         "bg": "#000000",
-        "fg": "#C71585",
+        "fg": "#cc388d",
         "type": "dark"
       },
       "OhLED_MidnightBlue": {
         "bg": "#000000",
-        "fg": "#191970",
+        "fg": "#717199",
         "type": "dark"
       },
       "OhLED_MintCream": {
@@ -478,7 +478,7 @@
       },
       "OhLED_Navy": {
         "bg": "#000000",
-        "fg": "#000080",
+        "fg": "#6f6fa5",
         "type": "dark"
       },
       "OhLED_OldLace": {
@@ -563,12 +563,12 @@
       },
       "OhLED_Purple": {
         "bg": "#000000",
-        "fg": "#800080",
+        "fg": "#9c5f9c",
         "type": "dark"
       },
       "OhLED_RebeccaPurple": {
         "bg": "#000000",
-        "fg": "#663399",
+        "fg": "#8566ad",
         "type": "dark"
       },
       "OhLED_Red": {
@@ -583,12 +583,12 @@
       },
       "OhLED_RoyalBlue": {
         "bg": "#000000",
-        "fg": "#4169E1",
+        "fg": "#476ce2",
         "type": "dark"
       },
       "OhLED_SaddleBrown": {
         "bg": "#000000",
-        "fg": "#8B4513",
+        "fg": "#9d6852",
         "type": "dark"
       },
       "OhLED_Salmon": {
@@ -613,7 +613,7 @@
       },
       "OhLED_Sienna": {
         "bg": "#000000",
-        "fg": "#A0522D",
+        "fg": "#a86248",
         "type": "dark"
       },
       "OhLED_Silver": {
@@ -628,7 +628,7 @@
       },
       "OhLED_SlateBlue": {
         "bg": "#000000",
-        "fg": "#6A5ACD",
+        "fg": "#7365d1",
         "type": "dark"
       },
       "OhLED_SlateGray": {
@@ -658,7 +658,7 @@
       },
       "OhLED_Teal": {
         "bg": "#000000",
-        "fg": "#008080",
+        "fg": "#128282",
         "type": "dark"
       },
       "OhLED_Thistle": {
@@ -1457,7 +1457,7 @@
     "vscode": "1.60.0"
   },
   "galleryBanner": {
-    "color": "#002",
+    "color": "#001",
     "theme": "dark"
   },
   "icon": "assets/logo.png",
@@ -1564,5 +1564,5 @@
     "package": "vsce package -o ./dist/ohled-themes-$(node -p \"require('./package.json').version\").vsix"
   },
   "type": "module",
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
