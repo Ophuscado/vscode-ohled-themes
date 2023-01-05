@@ -2,13 +2,21 @@
 
 The following people and organisations have contributed in some way to this project:
 
-- [krueger71/crt-themes](https://github.com/krueger71/crt-themes)
-- [Ophuscado LLC](https://ophuscado.com/)
 - [Ophuscado](https://ophuscado.com/)
-- [zanza00/random-theme-switcher](https://github.com/zanza00/random-theme-switcher)
+- [Ophuscado LLC](https://ophuscado.com/)
 
 # Software Attributions
 
-This project depends on the following third-party software:
+This project uses or has been inspired by the following open-source projects:
+
+## Dependencies
 
 [...]
+
+## Inspirations
+
+- [kognise/water.css](https://github.com/kognise/water.css)
+- [krueger71/crt-themes](https://github.com/krueger71/crt-themes)
+- [zanza00/random-theme-switcher](https://github.com/zanza00/random-theme-switcher)
+
+Please let us know if you believe we have unintentionally missed anyone or anything.
