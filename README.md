@@ -4,7 +4,9 @@
 
 ## About
 
-The OhLED Themes (142-in-1) for VSCode are inspired by the classic CRT monitors of yesteryear, specially crafted for the modern OLED displays of today.
+The OhLED Themes (142-in-1) for VSCode are inspired by the classic CRT monitors of yesteryear, specially crafted for the modern OLED displays of today. They help by reducing burn-in, energy consumption, and by using the pure black background colour we can enjoy beautiful contrasts.
+
+In a future release, we will enable an automatic colour cycling feature, so you can enjoy the full spectrum of colours without having to manually change the theme. This will be a great way to reduce eye strain and further reduce burn-in.
 
 ### Colours
 
