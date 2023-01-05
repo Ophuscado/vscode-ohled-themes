@@ -1454,7 +1454,7 @@
   },
   "displayName": "OhLED Themes (142-in-1)",
   "engines": {
-    "vscode": "1.60.0"
+    "vscode": "^1.60.0"
   },
   "galleryBanner": {
     "color": "#001",
