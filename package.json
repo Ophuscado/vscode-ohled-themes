@@ -1564,5 +1564,5 @@
     "package": "vsce package -o ./dist/ohled-themes-$(node -p \"require('./package.json').version\").vsix"
   },
   "type": "module",
-  "version": "0.1.2"
+  "version": "0.1.3"
 }
