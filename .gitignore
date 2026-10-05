@@ -1,0 +1,5 @@
+_gtd/
+node_modules/
+themes/
+*.vsix
+.DS_Store
